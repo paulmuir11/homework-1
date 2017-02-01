@@ -1,7 +1,5 @@
----
-title: "CBB752b17 Homework Assignment 1"
-output: pdf_document
----
+CBB752b17 Homework Assignment 1
+=====================
 
 **DUE DATE: February 20th (Monday) 2017, 11:59pm**
 
